@@ -18,5 +18,5 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br>
-Apaixonado por tecnologia, educação e  desafios  contribindo , no desenvolvimento de software  Melhorando a vida das Pessoas.<br>  
+Apaixonado por tecnologia, educação e  desafios  contribuindo , no desenvolvimento de software  Melhorando a vida das Pessoas.<br>  
 e-mail: claudio.filho7@hotmail.com
