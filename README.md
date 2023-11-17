@@ -3,6 +3,8 @@
 
 ![homem letra](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/main/GifsAnimados119.gif)
 
+![Snake animation](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br>
