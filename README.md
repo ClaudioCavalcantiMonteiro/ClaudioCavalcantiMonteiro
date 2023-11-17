@@ -19,4 +19,4 @@
 Apaixonado por tecnologia, educação e  desafios  contribuindo , no desenvolvimento de software  Melhorando a vida das Pessoas.<br>  
 e-mail: claudio.filho7@hotmail.com
 
-![Snake animation](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/output/github-contribution-grid-snake.svg))
+![Snake animation](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/output/github-contribution-grid-snake.svg)
