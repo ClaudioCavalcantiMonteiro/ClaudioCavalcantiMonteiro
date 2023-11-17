@@ -1,7 +1,7 @@
 ### Olá eu sou o Claudio Cavalcanti ✋
 
 
-![homem letra]()
+![homem letra](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/main/GifsAnimados119.gif)
 
 
 ## Tecnologias que eu uso no meu dia
