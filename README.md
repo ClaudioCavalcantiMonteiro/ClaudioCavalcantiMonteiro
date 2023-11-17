@@ -1,7 +1,6 @@
 ### Olá eu sou o Claudio Cavalcanti ✋
 
 
-![Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioCavalcantiMonteiro&show_icons=true&theme=tokyonight)
 
 
 
