@@ -3,7 +3,6 @@
 
 ![homem letra](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/main/GifsAnimados119.gif)
 
-![Snake animation](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Tecnologias que eu uso no meu dia
@@ -19,3 +18,5 @@
 </div><br>
 Apaixonado por tecnologia, educação e  desafios  contribuindo , no desenvolvimento de software  Melhorando a vida das Pessoas.<br>  
 e-mail: claudio.filho7@hotmail.com
+
+![Snake animation](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/output/github-contribution-grid-snake.svg)
