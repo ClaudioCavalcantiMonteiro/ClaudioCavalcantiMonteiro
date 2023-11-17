@@ -1,6 +1,6 @@
 ### Olá eu sou o Claudio Cavalcanti ✋
 
-https://th.bing.com/th/id/R.c05b9da473c893c477533728861e39e7?rik=QYhX7en9qHJPfw&pid=ImgRaw&r=0
+
 ![Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioCavalcantiMonteiro&show_icons=true&theme=tokyonight)
 
 
