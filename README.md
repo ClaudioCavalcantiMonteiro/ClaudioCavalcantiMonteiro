@@ -1,5 +1,5 @@
 ### Olá eu sou o Claudio Cavalcanti ✋
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BAtSmZ8EeQ7G8GURyi4E19g%3D%3D)
 
 ![Claudio GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioCavalcantiMonteiro&show_icons=true&theme=tokyonight)
 
