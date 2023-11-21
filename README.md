@@ -1,7 +1,7 @@
 ### Olá eu sou o Claudio Cavalcanti ✋
 
 
-<div style="display: center ">![homem letra](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/main/GifsAnimados119.gif)
+![homem letra](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/main/GifsAnimados119.gif)
 
 
 
