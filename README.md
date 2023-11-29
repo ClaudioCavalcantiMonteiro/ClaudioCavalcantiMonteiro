@@ -1,6 +1,6 @@
 ### Olá eu sou o Claudio Cavalcanti ✋
 
-![imagem](https://github.com/ClaudioCavalcantiMonteiro/ClaudioCavalcantiMonteiro/blob/main/giphy.gif)
+
 
 
 
